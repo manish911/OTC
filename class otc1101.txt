@@ -1,3 +1,4 @@
 class otc1101
 
 29-Apr-15 MK - Class created for AKRPROD-14
+12-May-15 MK - updated for AKRPROD-24
